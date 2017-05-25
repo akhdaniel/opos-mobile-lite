@@ -39,5 +39,5 @@ OPOS Mobile - Mobile POS for Odoo /Android/ IOS
 * Payment Type Management
 
 # Requirements
-* Install NativeScript [www.NativeScript.org](https://www.nativescript.com)
+* Install NativeScript [www.NativeScript.org](https://www.nativescript.org)
 * Android Emulator [like Genymotion](https://www.genymotion.com) or any emulator
