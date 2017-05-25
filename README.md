@@ -2,9 +2,9 @@
 OPOS Mobile - Mobile POS for Odoo /Android/ IOS
 
 # Intro
-* Mobile Android/IOS point of sales that can run in stand alone mode or connected to Odoo as the backend server.
-* Built using NativeScript.
-* Connected to Odoo using jsonrpc or xmlrpc in periodic or on demand so it can run in offline mode
+* Mobile Native Android/IOS point of sales that can run in stand alone mode or connected to Odoo as the backend server.
+* Built using NativeScript.. and AngularJS
+* Connected to Odoo using jsonrpc or xmlrpc in periodic manner or on demand so it can run in offline mode
 
 # Features (Free Version)
 * Can work in offline mode
@@ -38,3 +38,6 @@ OPOS Mobile - Mobile POS for Odoo /Android/ IOS
 * Product Management
 * Payment Type Management
 
+# Requirements
+* Install NativeScript [www.NativeScript.org](https://www.nativescript.com)
+* Android Emulator [like Genymotion](https://www.genymotion.com) or any emulator
