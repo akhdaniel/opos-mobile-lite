@@ -1,12 +1,12 @@
 # opos-mobile-lite
 OPOS Mobile - Mobile POS for Odoo /Android/ IOS
 
-Intro
+# Intro
 •	Mobile Android/IOS point of sales that can run in stand alone mode or connected to Odoo as the backend server.
 •	Built using NativeScript.
 •	Connected to Odoo using jsonrpc or xmlrpc in periodic or on demand so it can run in offline mode
 
-Features (Lite Version)
+# Features (Lite Version)
 •	Can work in offline mode
 •	Can scan product, weight scale, and customer card barcode, with camera
 •	Can print to bluetooth printer for receipt and reports
@@ -24,13 +24,13 @@ o	Sales Summary per Category : Daily, Monthly, Custom Period
 o	Sales Summary per Payment : Daily, Monthly, Custom Period
 o	Sales Summary per Customer : Daily, Monthly, Custom Period
 
-Features (Pro Version)
+# Features (Pro Version)
 •	Loyalti Card system
 •	Customer auto detection using Face Recogition or NFC/RFID member cards, so when customer arrives, receptionist / waiter can identity and welcome by his/her name, and ask if he/she will order the same favourite menu again.
 •	Customer birthday record, so if needed, resto can give him/her special gifts
 •	Integrate to Odoo price list for advanced discount management
 
-Screen Designs
+# Screen Designs
 •	Login
 •	Order Entry
 •	Customer Management
